@@ -1,6 +1,5 @@
 - name: Prism 5.0
   href: index.md
-  items:
 - name: Guide
   href: guide/index.md
   items:
